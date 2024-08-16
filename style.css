@@ -1,0 +1,8 @@
+/* .input-box i {
+  font-weight: bold;
+  cursor: pointer;
+} */
+.input-box img.eye {
+  width: 1.5rem;
+  cursor: pointer;
+}
